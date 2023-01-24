@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Victo
+ * @author Victor hugo
  */
 public class conexion {
 

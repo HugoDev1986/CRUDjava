@@ -11,7 +11,7 @@ import sistema.empleadosDAL.conexion;
 
 /**
  *
- * @author Victo
+ * @author Victor hugo
  */
 public class frmEmpleados extends javax.swing.JFrame {
 

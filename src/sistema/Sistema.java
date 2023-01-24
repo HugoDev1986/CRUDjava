@@ -5,7 +5,7 @@
 package sistema;
 
 /**
- * @author Victo
+ * @author Victor hugo
  */
 public class Sistema {
 
