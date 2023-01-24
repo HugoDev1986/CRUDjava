@@ -6,7 +6,7 @@ package sistema.empleadosBL;
 
 /**
  *
- * @author Victo
+ * @author Victor hugo
  */
 public class empleadosBL {
     
